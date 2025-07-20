@@ -18,4 +18,6 @@ aside {
 
 footer {
     letter-spacing: 0.3rem;
+    text-align: center;
+    color: green;
 }
