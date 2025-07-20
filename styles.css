@@ -19,9 +19,11 @@ footer {
     letter-spacing: 0.3rem;
     text-align: center;
     color: green;
+    font-family: sans-serif;
 }
 
 nav {
     font-size: 1.2rem;
     text-align: center;
+    font-family: sans-serif;
 }
