@@ -15,3 +15,7 @@ aside {
     border: solid 1px blueviolet;
     padding: 10px;
 }
+
+footer {
+    letter-spacing: 0.3rem;
+}
