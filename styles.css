@@ -9,3 +9,7 @@ header h1 {
     color: blueviolet;
     text-decoration: underline;
 }
+
+aside {
+    line-height: 200%;
+}
