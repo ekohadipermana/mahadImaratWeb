@@ -12,4 +12,6 @@ header h1 {
 
 aside {
     line-height: 200%;
+    border: solid 1px blueviolet;
+    padding: 10px;
 }
