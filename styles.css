@@ -31,3 +31,11 @@ nav {
 nav :hover {
     color: blue;
 }
+
+p::first-letter {
+    font-size: 2rem;
+}
+
+p::first-line {
+    color: green;
+}
