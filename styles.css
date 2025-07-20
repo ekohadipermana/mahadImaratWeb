@@ -2,7 +2,6 @@ header h1 {
     color: green;
     text-align: center;
     font-weight: bold;
-
 }
 
 #underline {
@@ -20,4 +19,9 @@ footer {
     letter-spacing: 0.3rem;
     text-align: center;
     color: green;
+}
+
+nav {
+    font-size: 1.2rem;
+    text-align: center;
 }
