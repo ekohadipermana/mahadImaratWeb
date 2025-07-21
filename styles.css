@@ -47,3 +47,8 @@ p::first-letter {
 p::first-line {
     color: green;
 }
+
+.mainParagraph {
+    background-image: url('forest.jpg');
+    background-size: cover;
+}
