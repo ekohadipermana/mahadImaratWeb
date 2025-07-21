@@ -1,0 +1,23 @@
+.first {
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+.second {
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+.third {
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+}
