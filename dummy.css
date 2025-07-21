@@ -12,7 +12,9 @@
     height: 100px;
     background-color: forestgreen;
     display: inline-block;
-    position: static;
+    position: relative;
+    top: 100px;
+    left: 100px;
 }
 
 .third {
