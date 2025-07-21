@@ -1,8 +1,9 @@
 header h1 {
     color: white;
     text-align: center;
-    font-weight: bold;
+    font-weight: normal;
     background-color: #5E936C;
+    font-family: "Playfair Display", serif;
 }
 
 #underline {
@@ -27,13 +28,14 @@ footer {
 }
 
 nav {
-    font-size: 1.1rem;
+    font-size: 1rem;
     text-align: center;
-    font-family: sans-serif;
+    font-family: "Playfair Display", serif;
 }
 
 nav .link {
-    display: inline;
+    display: inline-block;
+    margin: 0 0.5rem;
 }
 
 nav :hover {
