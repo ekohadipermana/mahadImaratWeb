@@ -48,7 +48,14 @@ p::first-line {
     color: green;
 }
 
+.theMain {
+    background-color: white;
+    opacity: 0.7;
+}
+
 .mainParagraph {
     background-image: url('forest.jpg');
     background-size: cover;
+    /* color: blueviolet; */
 }
+
