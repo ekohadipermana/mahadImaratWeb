@@ -25,6 +25,8 @@ footer {
     text-align: center;
     color: green;
     font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 0.5rem;
 }
 
 nav {
@@ -42,7 +44,7 @@ nav :hover {
     color: blue;
 }
 
-p::first-letter {
+.mainParagraph::first-letter {
     font-size: 2rem;
 }
 
