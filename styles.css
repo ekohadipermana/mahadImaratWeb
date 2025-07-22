@@ -55,6 +55,9 @@ p::first-line {
 .theMain {
     background-color: white;
     opacity: 0.7;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
 }
 
 .mainParagraph {
