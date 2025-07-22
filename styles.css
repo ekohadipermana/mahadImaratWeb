@@ -33,6 +33,11 @@ nav {
     font-size: 1rem;
     text-align: center;
     font-family: "Playfair Display", serif;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
 }
 
 nav .link {
@@ -40,8 +45,8 @@ nav .link {
     margin: 0 0.5rem;
 }
 
-nav :hover {
-    color: blue;
+nav a:hover {
+    color: green;
 }
 
 .mainParagraph::first-letter {
