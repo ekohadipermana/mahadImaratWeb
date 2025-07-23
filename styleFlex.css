@@ -1,0 +1,9 @@
+.link {
+    display: flex;
+    justify-content: center;
+}
+
+.link a {
+    text-decoration: none;
+    margin: 1rem;
+}
