@@ -1,7 +1,31 @@
 header {
     background-color: aqua;
     border: 2px solid black;
-    height: 200px;
-    width: 70vw;
+    height: 100px;
+    width: 90vw;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: brown;
+    border: 2px solid black;
+    height: 50px;
+    width: 90vw;
+    margin: 5px auto;
+}
+
+main {
+background-color: violet;
+    border: 2px solid black;
+}
+
+article {
+background-color: orange;
+    border: 2px solid black;
+}
+
+section {
+background-color: teal;
+    border: 2px solid black;
 }
 
